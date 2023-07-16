@@ -23,7 +23,7 @@ jobs:
     - name: download meta core
       uses: robinraju/release-downloader@v1.8
       with:
-        repository: 'MetaCubeX/Clash.Meta'
+        repository: 'fdvvv/Clash.Meta'
         tag: "v1.15.0"
         fileName: ".*darwin.*64-v.*.gz"
 
